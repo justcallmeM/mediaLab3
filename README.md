@@ -1,3 +1,6 @@
+Site is ready to be published at https://justcallmem.github.io/mediaLab3/src
+Use it with hiro.png
+
 # mediaLab3
 
 This lab aims to build your first Augmented Reality (AR) app.
